@@ -96,10 +96,6 @@ h1, h2, h3, nav a, nav span, menu li, #social li, footer {
     font-style: normal;
   }
 
-header{
-   
-}
-
 header h2{
     display: none;
 }
@@ -159,9 +155,6 @@ img {
     text-align: center;
 }
 
-.avatar svg, .avatar span {
-    /* align-self: center; */
-}
 
 .avatar a {
     color: #0D0D0D;
